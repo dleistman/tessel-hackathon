@@ -1,0 +1,22 @@
+{
+  "name": "tessel",
+  "version": "0.0.0",
+  "description": "Tessel project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "www.github.com/tessel/t2-cli",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "A bare bones Tessel 2 blinky script.",
+  "dependencies": {
+    "imgur-upload": "^0.1.2",
+    "nodemailer": "^4.6.3",
+    "rfid-pn532": "^0.1.9",
+    "servo-pca9685": "^0.1.3",
+    "tessel-av": "^0.19.0"
+  }
+}
